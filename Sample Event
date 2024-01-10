@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html>
+<head>  </head>           
+<link rel="icon" href="img/date.png">
+<body bgcolor="black" style ="color:white">
+    <center>
+        <h1>Upcoming Events 📅</h1>
+    </center>
+    <hr>
+    <p>
+       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut ipsum quam, sunt harum quia id dignissimos consequatur consequuntur natus quisquam quos dicta fuga voluptas? Debitis expedita amet temporibus ducimus vitae voluptate officia aperiam exercitationem architecto consequuntur. Ipsum eaque quisquam magni consequuntur optio suscipit at explicabo est blanditiis recusandae, sed a tenetur et hic nisi aspernatur odit placeat corrupti nobis molestias dolore numquam voluptas? Laudantium odit cupiditate, consequuntur officia iusto iure tempora. Necessitatibus, nisi! Aliquid velit impedit eos eligendi autem voluptates ab recusandae non mollitia praesentium voluptate voluptatum expedita libero, consequatur sit similique laborum, explicabo temporibus, in vel labore earum?
+    </p>
+    <center>
+    <img src="img/event1.png">
+    <h1>Photo Gallary</h1>
+    <h2>Free Entry | Free Food | Pets are not Aloowed</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium nisi nobis, neque laboriosam numquam totam harum, accusamus cumque iusto nemo, quia tempora ea error quas voluptas magni incidunt! Praesentium, sint tenetur hic error itaque repudiandae. Adipisci omnis accusamus aperiam amet voluptatibus quos, dolore quidem fuga neque tempora odio ducimus sunt!</p>
+    </center> 
+    <center>
+        <img src="img/event2.png">
+        <h1>
+            <a href="https://www.myntra.com/">Fashion Store</a>
+        </h1>
+        <h2>Free Entry | Free Food | Pets are not Aloowed</h2>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium nisi nobis, neque laboriosam numquam totam harum, accusamus cumque iusto nemo, quia tempora ea error quas voluptas magni incidunt! Praesentium, sint tenetur hic error itaque repudiandae. Adipisci omnis accusamus aperiam amet voluptatibus quos, dolore quidem fuga neque tempora odio ducimus sunt!</p>
+
+    </center>
+    <center>
+    <hr>
+    <h1>Contact</h1>
+    <h2>1234567890 | eventcollab@gmail.com</h2>
+    <p>chennai</p>
+    </center>
+</body>
+</html>
+
+
+
+
